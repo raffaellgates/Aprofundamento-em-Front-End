@@ -1,0 +1,34 @@
+h1 => titulo de nivel 01
+p => paragafo
+hr => linha horizontal
+br => quebra de linha
+img => src: caminho, alt: descrição(acessibilidade)
+favicon.io => site para converter png em incone
+Hs=> tem haver com o nivel de hieraquia não com o tamanho(s=numero de 1-7)
+strong => trecho forte(negrito)
+em => enfase (italico)
+mark => marcador de texto
+del=> descondidera um texto marcando
+smal=> deixa a letra pequenda (leia a letrinha)
+ins => marca o texto como sublinhar
+sup => em cima (elevado)
+sublinhar => em baixo (indice)
+code => digitar codigo-fontes
+pre => vai considerar espaços e quebras de linhas (identação)
+q  => citação(asspas[""])
+blockquote = citações completas [cite= url da fonte]
+ol => lista ordenada (type= parametros de indice)
+ul => lista não ordenada (type= formas dos indice)
+li => linha da lista
+[
+    dl lista de definição
+    
+    dt linha da dl
+    dd descrição da dt
+]
+[
+    a => tag de link
+    href= caminho do link (url)
+    target= o modo que vai ser inicializado em uma nova pagina(_blank) ou se vai continuar na msm aba(_self)
+    rel=pra o navegador indentificar que tipo é o link se de fora(external) ou se pertece ao site como por exemplo se é (next) proxima ou (prev)anterior
+]
