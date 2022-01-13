@@ -32,3 +32,9 @@ li => linha da lista
     target= o modo que vai ser inicializado em uma nova pagina(_blank) ou se vai continuar na msm aba(_self)
     rel=pra o navegador indentificar que tipo é o link se de fora(external) ou se pertece ao site como por exemplo se é (next) proxima ou (prev)anterior
 ]
+
+[
+    picture => tag que aceita varios sources(tamanhos de imagens)
+    que recebe uma img e varios source antes da img em ordem crescente
+    source => {source media} onde media= media="(max-width:tamanho maximo) e srcset=o caminho da img
+]
